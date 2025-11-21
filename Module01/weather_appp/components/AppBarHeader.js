@@ -42,6 +42,8 @@ const styles = StyleSheet.create({
     flex: 1,
     marginRight: '20%',
     padding:10,
+    borderWidth: 0,
+    outlineStyle: 'none',
   },
   geoButton: {
     
